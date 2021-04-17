@@ -25,7 +25,6 @@ a {
 footer {
     display: flex;
     height: 30px;
-    position: fixed;
 }
 
 .image {
